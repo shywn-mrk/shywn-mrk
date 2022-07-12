@@ -1,7 +1,7 @@
 Hi 👋 My name is Shayan Karimi
 ==============================
 
-Software Engineer Developer
+Software Engineer
 --------------------
 
 I'm a Software Engineer Developer experienced with Python and JavaScript programming languages also familiar with some basics of game development using Unreal Engine 4 and C++.
