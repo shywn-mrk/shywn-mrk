@@ -1,10 +1,10 @@
 Hi 👋 My name is Shayan Karimi
 ==============================
 
-Full-Stack Developer
+Software Engineer Developer
 --------------------
 
-I'm a Full-Stack Developer experienced with Python and JavaScript programming languages also familiar with some basics of game development using Unreal Engine 4 and C++.
+I'm a Software Engineer Developer experienced with Python and JavaScript programming languages also familiar with some basics of game development using Unreal Engine 4 and C++.
 
 * 🌍  I'm based in Iran
 * 🖥️  See my portfolio at [shywn-mrk](http://shywn-mrk.github.io/)
