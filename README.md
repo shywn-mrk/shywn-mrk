@@ -4,13 +4,13 @@ Hi 👋 My name is Shayan Karimi
 Software Engineer
 --------------------
 
-I'm a Software Engineer experienced with Python and JavaScript programming languages also familiar with some basics of game development using Unreal Engine 4 and C++.
+I'm a Software Engineer experienced with Python and JavaScript programming languages and also familiar with some basics of game development using Unreal Engine 4 and C++.
 
 * 🌍  I'm based in Iran
 * 🖥️  See my portfolio at [shywn-mrk](http://shywn-mrk.github.io/)
 * ✉️  You can contact me at [shayankarimi0078@gmail.com](mailto:shayankarimi0078@gmail.com)
-* 🚀  I'm currently working on [Digikala](https://www.digikala.com/)
-* 🧠  I'm learning Unreal Engine 5 and Java Spring
+* 🚀  I'm currently working on [Remino](https://remino.io/)
+* 🧠  I'm learning Unreal Engine 5 and trying to be a better Software Engineer
 * 🤝  I'm open to collaborating on Open Source Projects
 * ⚡  I'm Batman
 
