@@ -6,7 +6,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shywn-mrk&theme=dracula" height="150" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shywn-mrk&theme=dracula" height="150" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shywn-mrk&theme=dracula" height="150" />
-  <img src="https://streak-stats.demolab.com?user=shywn-mrk&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=shywn-mrk&locale=en&mode=daily&theme=dracula&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=shywn-mrk&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
